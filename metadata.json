@@ -1,0 +1,10 @@
+{
+  "name": "LearnGenie - AI Personalized Learning Assistant",
+  "description": "On-device adaptive learning assistant with personalized study roadmaps, AI voice agent, quizzes with performance analytics, colorful notes with flowcharts, and educational video recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
